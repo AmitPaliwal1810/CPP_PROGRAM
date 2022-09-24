@@ -47,5 +47,7 @@ functions
 4. .pop_back() - to pop the element from n-1th position
 5. .clear() - to clear the vector
 6. .capacity() - to find the capacity
+7. .front()
+8. .back()
 
 */
