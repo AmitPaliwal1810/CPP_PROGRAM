@@ -33,7 +33,7 @@ int main()
     //     }
     // }
 
-    // optimized solution.
+    // optimized solution. (2 pointer approach)
 
     int i = 0;
     int j = 0;
