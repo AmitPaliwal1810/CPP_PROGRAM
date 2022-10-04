@@ -23,7 +23,7 @@ int findPivotElement(vector<int> v)
         mid = s + (e - s) / 2;
     }
 
-    return v[mid];
+    return v[s];
 }
 
 int main()
