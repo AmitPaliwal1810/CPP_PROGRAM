@@ -1,10 +1,12 @@
 /* C++ code for Book Allocation problem to find the minimum value of the maximum
 number of pages*/
+
+// https://www.codingninjas.com/codestudio/library/book-allocation-problem
+
 #include <bits/stdc++.h>
 
 using namespace std;
-/*function to check if it is possible to allocate the books such that the
-maximum number of pages assigned to any student is numPages*/
+
 bool isPossible(int pages[], int n, int m, int numPages)
 {
     int cntStudents = 1;
