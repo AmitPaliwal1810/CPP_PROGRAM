@@ -33,3 +33,10 @@ int main()
 
     return 0;
 }
+/*
+
+use case : 
+
+small size array and memory use.
+
+*/
